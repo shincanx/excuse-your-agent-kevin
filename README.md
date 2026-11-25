@@ -1,6 +1,8 @@
 # The Excuse Your Agent Gives You
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
+[![make.fun · u-kevin-the-excuse-your-agent-gives-you-c1861261](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261?utm_source=github&utm_medium=readme&utm_campaign=u-kevin-the-excuse-your-agent-gives-you-c1861261)
+[![rank](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/shincanx/excuse-your-agent-kevin/rank.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kevin-the-excuse-your-agent-gives-you-c1861261)
+[![reward](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/shincanx/excuse-your-agent-kevin/reward.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261?utm_source=github&utm_medium=readme&utm_campaign=u-kevin-the-excuse-your-agent-gives-you-c1861261)
 
 Entry for the make.fun bounty [The Excuse Your Agent Gives You](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261): a program that writes a single line, under 200 characters, that an AI agent would hand its human after shipping a bug — the apology, the deflection, and the quiet implication that the model started it.
 
